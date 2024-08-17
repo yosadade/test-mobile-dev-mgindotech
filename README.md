@@ -1,1 +1,1 @@
-![Alt Text](./video.gif)
+[Watch the video](./demo.mp4)
