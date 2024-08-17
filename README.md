@@ -1,1 +1,1 @@
-[Watch the demo video](/demo.mp4)
+[Watch the demo video on YouTube](https://youtube.com/shorts/gv0Pd7NW-SU?feature=share)
