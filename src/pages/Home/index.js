@@ -10,7 +10,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 
-const App = () => {
+const Home = () => {
   const [datas, setDatas] = useState([]);
   const [limit, setLimit] = useState(10)
   const [isLoading, setIsLoading] = useState(false);
@@ -75,4 +75,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default App;
+export default Home;
